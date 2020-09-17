@@ -1,0 +1,60 @@
+body{
+	background:linear-gradient(to right,tomato,white);
+	font-family: 'Luckiest Guy', cursive;
+}
+
+h1{
+	text-align: center;
+	margin-top: 85px;
+	font-size: 40px;
+	color: blue;
+	text-transform: capitalize;
+}
+.centerDive
+{
+	border:2px solid green;
+	margin-left: 300px;
+	margin-right: 300px;
+	text-align: center;
+	border-radius: 20%;
+	background:url(pattern.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+label{
+	font-size:50px;
+	text-transform: capitalize;
+	color: forestgreen;
+}
+
+input{
+	height: 30px;
+	width:  300px;
+	background-color: lightpink;
+	border: 2px solid blue;
+	font-size: 35px;
+	color: blue;
+	text-align: center;
+	text-transform: capitalize;
+}
+
+.clickbtn{
+	height: 50px;
+	width: 200px;
+	background-color: red;
+	font-size:20px;
+	font-family: 'Luckiest Guy', cursive;
+	border-radius: 50%;
+	border:2px solid blue;
+	outline: none;
+}
+.resetbtn{
+	height: 50px;
+	width: 200px;
+	background-color: green;
+	font-size:20px;
+	font-family: 'Luckiest Guy', cursive;
+	border-radius: 50%;
+	border:2px solid blue;
+	outline: none;
+}
